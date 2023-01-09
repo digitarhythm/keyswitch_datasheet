@@ -339,6 +339,102 @@ keyswitch_datasheet:
       last_update: "2023-01-09"
       remarks: ""
 
+    cherry_mx_grey:
+      name: "MX GREY"
+      maker: "cherry"
+      brand: "3"
+      product_code: ""
+      datasheet:
+        click_type: "1"
+        force:
+          initial: ""
+          actuation: "80cN"
+          tactile: ""
+          bottom: ""
+        travel:
+          actuation: "2.0mm"
+          total: "4.0mm"
+        pin_num: ""
+        lube: "no lube"
+      image:
+        - "https://www.cherrymx.de/_Resources/Persistent/e/4/0/9/e409ac31356819d72889e35c370986fd3394ef73/CHERRY_MX_GREY-368x368.png"
+      urls:
+        - "https://www.cherrymx.de/en/cherry-mx/mx-special/mx-grey.html"
+      last_update: "2023-01-09"
+      remarks: ""
+
+    cherry_mx_clear:
+      name: "MX CLEAR"
+      maker: "cherry"
+      brand: "3"
+      product_code: ""
+      datasheet:
+        click_type: "1"
+        force:
+          initial: "40±15cN"
+          actuation: "55±20cN"
+          tactile: "65±20cN"
+          bottom: ""
+        travel:
+          actuation: "2.0±0.6mm"
+          total: "4.0±0.5mm"
+        pin_num: ""
+        lube: "no lube"
+      image:
+        - "https://www.cherrymx.de/_Resources/Persistent/6/5/8/9/658961ec40bc76321ba3016dd95c8a32f18b7c48/CHERRY_MX_Clear-368x368.png"
+      urls:
+        - "https://www.cherrymx.de/en/cherry-mx/mx-special/mx-clear.html"
+      last_update: "2023-01-09"
+      remarks: ""
+
+    cherry_mx_ergo_clear:
+      name: "MX ERGO CLEAR"
+      maker: "cherry"
+      brand: "3"
+      product_code: ""
+      datasheet:
+        click_type: "1"
+        force:
+          initial: "35cN"
+          actuation: "40cN"
+          tactile: "55cN"
+          bottom: ""
+        travel:
+          actuation: "2.0mm"
+          total: "4.0mm"
+        pin_num: ""
+        lube: "no lube"
+      image:
+        - "https://www.cherrymx.de/_Resources/Persistent/6/5/8/9/658961ec40bc76321ba3016dd95c8a32f18b7c48/CHERRY_MX_Clear-368x368.png"
+      urls:
+        - "https://www.cherrymx.de/en/cherry-mx/mx-special/mx-ergo-clear.html"
+      last_update: "2023-01-09"
+      remarks: ""
+
+    cherry_mx_black_clear_top:
+      name: "MX BLACK CLEAR-TOP"
+      maker: "cherry"
+      brand: "3"
+      product_code: ""
+      datasheet:
+        click_type: "0"
+        force:
+          initial: "40cN"
+          actuation: "63.5cN"
+          tactile: ""
+          bottom: ""
+        travel:
+          actuation: "2.0mm"
+          total: "4.0mm"
+        pin_num: ""
+        lube: "no lube"
+      image:
+        - "https://www.cherrymx.de/_Resources/Persistent/c/3/c/c/c3cc4aed5f52a0df073ab97553a7bd3eef4e5b32/CHERRY_MX_BLACK_CLEAR-TOP-368x368.png"
+      urls:
+        - "https://www.cherrymx.de/en/cherry-mx/mx-special/mx-black-clear-top.html"
+      last_update: "2023-01-09"
+      remarks: ""
+
     #==============================================
     # Maker: Kailh
     #==============================================
