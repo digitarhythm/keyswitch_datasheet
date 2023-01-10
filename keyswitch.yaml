@@ -282,7 +282,7 @@ keyswitch_datasheet:
         travel:
           actuation: "0.8mm"
           total: "1.8mm"
-        pin_num: "3"
+        pin_num: ""
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/a/5/c/5/a5c572eb6b9c89124a4790fca9930ec731cc3ce5/img-productstage-mxulp%402x-368x368.png"
@@ -306,7 +306,7 @@ keyswitch_datasheet:
         travel:
           actuation: "0.8mm"
           total: "1.8mm"
-        pin_num: "3"
+        pin_num: ""
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/a/5/c/5/a5c572eb6b9c89124a4790fca9930ec731cc3ce5/img-productstage-mxulp%402x-368x368.png"
