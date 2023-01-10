@@ -426,7 +426,7 @@ keyswitch_datasheet:
         travel:
           actuation: "2.0mm"
           total: "4.0mm"
-        pin_num: "3"
+        pin_num: "5"
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/c/3/c/c/c3cc4aed5f52a0df073ab97553a7bd3eef4e5b32/CHERRY_MX_BLACK_CLEAR-TOP-368x368.png"
