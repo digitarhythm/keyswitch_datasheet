@@ -70,7 +70,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/7/e/b/f/7ebf9bb172cff79985becf72e58fe0c592aaaba9/CHERRY_MX_RED-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-red.html"
       last_update: "2023-01-08"
       remarks: ""
@@ -94,7 +94,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/4/2/e/1/42e176e67590430e2a641bd66015cca492e76183/CHERRY_MX_SPEED-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-speed-silver.html"
       last_update: "2023-01-08"
       remarks: ""
@@ -118,7 +118,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/9/7/8/d/978dc6181bbf5a46e513d84281a655ce8fdad7b1/CHERRY_MX_BLACK-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-black.html"
       last_update: "2023-01-08"
       remarks: ""
@@ -142,7 +142,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/b/d/b/c/bdbc919f3168f1b658e7492a114095f42b971308/CHERRY_MX_BROWN-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-brown.html"
       last_update: "2023-01-08"
       remarks: ""
@@ -166,7 +166,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/3/c/f/b/3cfb37f97e65798753c956af962357141c6c74c7/CHERRY_MX_BLUE-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-brown.html"
       last_update: "2023-01-08"
       remarks: ""
@@ -190,7 +190,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/f/1/b/4/f1b4a388c0b0387f90a959b22ab90f8584b5aa02/CHERRY_MX_SILENT_RED-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-silent-red.html"
       last_update: "2023-01-08"
       remarks: ""
@@ -214,7 +214,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/8/d/0/b/8d0b99f5acc4b8419f066d92ae1031cc2e144427/CHERRY_MX_SILENT_BLACK-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-silent-black.html"
       last_update: "2023-01-08"
       remarks: ""
@@ -238,7 +238,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/3/5/4/2/35426e99b34e80cbf2d883b57f8ae28c94402ca3/img-productstage-mxRed%402x_100-368x368_100_mio.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-low-profile/mx-low-profile-red.html"
       last_update: "2023-01-09"
       remarks: ""
@@ -262,7 +262,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/8/3/e/b/83ebaf3defb53fa085ed05df94c8ea39cc52f933/img-productstage-mxSpeed%402x_100-368x368_100_mio.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-low-profile/mx-low-profile-speed.html"
       last_update: "2023-01-09"
       remarks: ""
@@ -286,7 +286,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/a/5/c/5/a5c572eb6b9c89124a4790fca9930ec731cc3ce5/img-productstage-mxulp%402x-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-low-profile/mx-low-profile-speed.html"
       last_update: "2023-01-09"
       remarks: ""
@@ -310,7 +310,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/a/5/c/5/a5c572eb6b9c89124a4790fca9930ec731cc3ce5/img-productstage-mxulp%402x-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-ultra-low-profile/mx-ulp-tactile.html"
       last_update: "2023-01-09"
       remarks: ""
@@ -334,7 +334,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/9/7/c/0/97c0de1ad657358a05574e08c57229dde5e9386e/CHERRY_MX_GREEN-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-special/mx-green.html"
       last_update: "2023-01-09"
       remarks: ""
@@ -358,7 +358,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/e/4/0/9/e409ac31356819d72889e35c370986fd3394ef73/CHERRY_MX_GREY-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-special/mx-grey.html"
       last_update: "2023-01-09"
       remarks: ""
@@ -382,7 +382,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/6/5/8/9/658961ec40bc76321ba3016dd95c8a32f18b7c48/CHERRY_MX_Clear-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-special/mx-clear.html"
       last_update: "2023-01-09"
       remarks: ""
@@ -406,7 +406,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/6/5/8/9/658961ec40bc76321ba3016dd95c8a32f18b7c48/CHERRY_MX_Clear-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-special/mx-ergo-clear.html"
       last_update: "2023-01-09"
       remarks: ""
@@ -430,7 +430,7 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "https://www.cherrymx.de/_Resources/Persistent/c/3/c/c/c3cc4aed5f52a0df073ab97553a7bd3eef4e5b32/CHERRY_MX_BLACK_CLEAR-TOP-368x368.png"
-      urls:
+      url:
         - "https://www.cherrymx.de/en/cherry-mx/mx-special/mx-black-clear-top.html"
       last_update: "2023-01-09"
       remarks: ""
@@ -438,8 +438,8 @@ keyswitch_datasheet:
     #==============================================
     # Maker: Kailh
     #==============================================
-    kailh_box_whale:
-      name: "Whale"
+    CPG1511F01S172:
+      name: "CPG1511F01S172"
       maker: "kailh"
       brand: "0"
       product_code: "CPG1511F01S172"
@@ -457,13 +457,13 @@ keyswitch_datasheet:
         lube: "no lube"
       image:
         - "http://www.kailh.com/product/Ms/Kh/CPG1511F01S172.jpg"
-      urls:
+      url:
         - "http://www.kailh.com/en/Products/Ks/BOXS/207.html"
       last_update: "2023-01-08"
-      remarks: ""
+      remarks: "Whale"
 
-    kailh_box_islet:
-      name: "Islet"
+    CPG1511F01S129:
+      name: "CPG1511F01S129"
       maker: "kailh"
       brand: "0"
       product_code: "CPG1511F01S129"
@@ -481,13 +481,13 @@ keyswitch_datasheet:
         lube: "no lude"
       image:
         - "http://www.kailh.com/product/Ms/Kh/CPG1511F01S129.jpg"
-      urls:
+      url:
         - "http://www.kailh.com/en/Products/Ks/BOXS/206.html"
       last_update: "2023-01-08"
-      remarks: ""
+      remarks: "Islet"
 
-    kailh_box_switch_v2_white:
-      name: "BOX Switch V2 White"
+    CPG1511F01S110:
+      name: "CPG1511F01S110"
       maker: "kailh"
       brand: "0"
       product_code: "CPG1511F01S110"
@@ -502,13 +502,37 @@ keyswitch_datasheet:
           actuation: "1.8±0.4mm"
           total: "3.60±0.3mm"
         pin_num: "5"
-        lube: ""
+        lube: "no lube"
       image:
         - "http://www.kailh.com/product/Ms/Kh/CPG1511F01S110_1.png"
-      urls:
+      url:
         - "http://www.kailh.com/en/Products/Ks/BOXS/203.html"
       last_update: "2023-01-08"
-      remarks: ""
+      remarks: "BOX Switch V2 White"
+
+    CPG1511F01S109:
+      name: "CPG1511F01S109"
+      maker: "kailh"
+      brand: "0"
+      product_code: "CPG1511F01S109"
+      datasheet:
+        click_type: "1"
+        force:
+          initial: ""
+          actuation: "45±15gf"
+          tactile: "75±10gf"
+          bottom: ""
+        travel:
+          actuation: "2.0±0.4mm"
+          total: "3.60±0.3mm"
+        pin_num: "3"
+        lube: "no lube"
+      image:
+        - "http://www.kailh.com/product/Ms/Kh/CPG1511F01S109_1.png"
+      url:
+        - "http://www.kailh.com/en/Products/Ks/BOXS/204.html"
+      last_update: "2023-01-13"
+      remarks: "BOX Switch V2 Brown"
 
     #==============================================
     # Template
@@ -533,7 +557,8 @@ keyswitch_datasheet:
         lube: ""
       image:
         - ""
-      urls:
+      url:
         - ""
       last_update: "2023-01-08"
       remarks: ""
+
