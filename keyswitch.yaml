@@ -438,8 +438,8 @@ keyswitch_datasheet:
     #==============================================
     # Maker: Kailh
     #==============================================
-    CPG1511F01S172:
-      name: "CPG1511F01S172"
+    Whale:
+      name: "Whale"
       maker: "kailh"
       brand: "0"
       product_code: "CPG1511F01S172"
@@ -462,8 +462,8 @@ keyswitch_datasheet:
       last_update: "2023-01-08"
       remarks: "Whale"
 
-    CPG1511F01S129:
-      name: "CPG1511F01S129"
+    Islet:
+      name: "Islet"
       maker: "kailh"
       brand: "0"
       product_code: "CPG1511F01S129"
@@ -486,8 +486,8 @@ keyswitch_datasheet:
       last_update: "2023-01-08"
       remarks: "Islet"
 
-    CPG1511F01S110:
-      name: "CPG1511F01S110"
+    BOX_Switch_V2_White:
+      name: "BOX Switch V2 White"
       maker: "kailh"
       brand: "0"
       product_code: "CPG1511F01S110"
@@ -510,8 +510,8 @@ keyswitch_datasheet:
       last_update: "2023-01-08"
       remarks: "BOX Switch V2 White"
 
-    CPG1511F01S109:
-      name: "CPG1511F01S109"
+    BOX_Switch_V2_Brown:
+      name: "BOX Switch V2 Brown"
       maker: "kailh"
       brand: "0"
       product_code: "CPG1511F01S109"
@@ -525,7 +525,7 @@ keyswitch_datasheet:
         travel:
           actuation: "2.0±0.4mm"
           total: "3.60±0.3mm"
-        pin_num: "3"
+        pin_num: "5"
         lube: "no lube"
       image:
         - "http://www.kailh.com/product/Ms/Kh/CPG1511F01S109_1.png"
@@ -533,6 +533,30 @@ keyswitch_datasheet:
         - "http://www.kailh.com/en/Products/Ks/BOXS/204.html"
       last_update: "2023-01-13"
       remarks: "BOX Switch V2 Brown"
+
+    BOX_Switch_V2_Red:
+      name: "BOX Switch V2 Red"
+      maker: "kailh"
+      brand: "0"
+      product_code: "CPG1511F01S108"
+      datasheet:
+        click_type: "0"
+        force:
+          initial: ""
+          actuation: "40±10gf"
+          tactile: ""
+          bottom: ""
+        travel:
+          actuation: "1.0±0.4mm"
+          total: "3.60±0.3mm"
+        pin_num: "5"
+        lube: "no lube"
+      image:
+        - "http://www.kailh.com/product/Ms/Kh/CPG1511F01S108_1.png"
+      url:
+        - "http://www.kailh.com/en/Products/Ks/BOXS/205.html"
+      last_update: "2023-01-13"
+      remarks: "BOX Switch V2 Red"
 
     #==============================================
     # Template
