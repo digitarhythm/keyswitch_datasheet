@@ -1,0 +1,43 @@
+#==============================================
+# Master data
+#==============================================
+masterset:
+  maker:
+    cherry:
+      name: "Cherry"
+      url: "https://www.cherrymx.de/en/cherry-mx.html"
+      brand:
+        0: "MX FULLSIZE"
+        1: "MX LOW PROFILE"
+        2: "MX ULTRA LOW PROFILE"
+        3: "MX SPECIAL"
+
+    kailh:
+      name: "Kailh"
+      url: "http://www.kailh.com/en/Products/Ks"
+      brand:
+        0: "BOX"
+        1: "Choc"
+        2: "KT"
+        3: "KS"
+        4: "KH"
+        5: "KO RGB Center"
+        6: "Sun"
+        7: "Notebook"
+
+  click_type:
+    0:
+      name: "Linear"
+      description: ""
+    1:
+      name: "Tactile"
+      description: ""
+    2:
+      name: "Clicky"
+      description: ""
+    3:
+      name: "Silent Linear"
+      description: ""
+    4:
+      name: "Silent Tactile"
+      description: ""
