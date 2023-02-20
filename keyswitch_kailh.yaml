@@ -501,7 +501,7 @@ switches:
         tactile: ""
         bottom: ""
       travel:
-        actuation: "1.0±0.4mm"
+        actuation: "1.8±0.4mm"
         total: "3.60±0.3mm"
       pin_num: "5"
       lube: "no lube"
